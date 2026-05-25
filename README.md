@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Ameer Hamza
 
-<!--
-**ameerhamza522040/ameerhamza522040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student at University of Gujrat
+- 💻 Learning Web Development and Python
+- 🌱 Exploring Full Stack Development
+- 🚀 Interested in AI and Software Engineering
+- 📚 Improving coding and development skills
+
+## Tech Stack
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+
+## Currently Working On
+
+- Web Engineering Projects
+- GitHub Portfolio
+- Backend Development
+
+## Featured Projects
+
+- Hospital Management System
+- Weather Application
+- Portfolio Website
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/ameer-hamza-051374404
+- Email: ameer.hamza27600@gmail.com
