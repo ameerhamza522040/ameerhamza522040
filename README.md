@@ -33,5 +33,5 @@
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/ameer-hamza-051374404
+- LinkedIn: https://www.linkedin.com/in/ameer-hamza-051374404
 - Email: ameer.hamza27600@gmail.com
