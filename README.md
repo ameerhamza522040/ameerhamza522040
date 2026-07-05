@@ -27,7 +27,7 @@
 
 ## Featured Projects
 
-- Hospital Management System
+- Liberary Management System(UOG)
 - Weather Application
 - Portfolio Website
 
