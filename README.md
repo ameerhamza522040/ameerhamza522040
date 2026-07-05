@@ -27,7 +27,7 @@
 
 ## Featured Projects
 
-- Liberary Management System(UOG)
+- Library Management System(UOG)
 - Weather Application
 - Portfolio Website
 
